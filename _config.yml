@@ -19,9 +19,9 @@ defaults:
 description: ryan의 깃블로그
 author:
   name: ryan
-  email: ejun204@naverk.com
+  email: ejun204@naver.com
   github: ryan2win6
-  bio: Your stylish, minimalist theme!
+  bio: 멀티콘셉트 같은 개발자!
   email_md5: 
 
 rss_path: feed.xml

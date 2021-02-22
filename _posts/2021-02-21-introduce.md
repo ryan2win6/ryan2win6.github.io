@@ -11,7 +11,7 @@ comments: true
 **개발자의 삶이 된 날짜 ** = LocalDate devStartDate = LocalDate.of(2016,12,05);
  
 
- {% highlight yaml %}
+ {% highlight sql %}
 SELECT 
 	CASE 
 		WHEN BETWEEN TO_DATE('2016-12-05', 'YYYY-MM-DD') AND TO_DATE('2018-12-12', 'YYYY-MM-DD') THEN '디지털다임'

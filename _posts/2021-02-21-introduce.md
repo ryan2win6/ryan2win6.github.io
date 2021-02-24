@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduce
-categories: [introduce, dev, reference]
+categories: [introduce, dev, diary, recruit, reference]
 tags: [소개, ryan, setup]
 comments: true
 ---
